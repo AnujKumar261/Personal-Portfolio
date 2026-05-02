@@ -7,7 +7,7 @@ A modern, responsive personal portfolio website built with React.js and styled-c
 ## 🌐 Live Demo
 
 👉 Visit My Portfolio:  
-https://personal-portfolio-pth0t3hiw-anuj-kumars-projects-d34b9b68.vercel.app
+https://personal-portfolio-rosy-six-npxt8u4q67.vercel.app
 
 ---
 
